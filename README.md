@@ -7,4 +7,5 @@ This was a project done for paraller programmin 2025 at Åbo Akademia. (Not a pa
 
 ## Usage
 Syntax for using the compiled thingamajig is -> ./*binary* [width] [height] [generations] [display_step] [num_threads] [seed]
+
 The display step can be left at 0 to avoid spamming grids to the terminal. The seed probably doesn't work.
