@@ -2,7 +2,7 @@
 I'm likely going to rework this project in the future, as this was a hodgepodge.
 
 # Don't know what ye want here...
-##Info
+## Info
 This was a project done for "paraller programmin" at Åbo Akademia, implementing the game of life and piping it to the console.
 ## Build
 The project only uses OMP, but other than that this project uses base libraries and functions available to base c++ installation.
